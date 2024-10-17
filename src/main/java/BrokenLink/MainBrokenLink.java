@@ -2,6 +2,9 @@ package BrokenLink;
 
 public class MainBrokenLink {
 
-	@Test
-	public void mainB
+	public static void main(String[] args) 
+	{
+		System.out.println("Sakthi Madhu");
+		System.out.println("Sakthi Madhu");
+	}
 }
